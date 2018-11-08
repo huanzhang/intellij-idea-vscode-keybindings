@@ -1,0 +1,117 @@
+<keymap version="1" name="intellij-idea-vscode-keybindings" parent="Mac OS X 10.5+">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Go To Tab #1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="Go To Tab #2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="Go To Tab #3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoTest" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="GuiDesigner.IncreaseIndent">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="MarkdownNavigator.ToggleSplitLayoutChange" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="QuickChangeScheme" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="Scala.ShowImplicitParameters" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="SendEOF" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
